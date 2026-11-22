@@ -16,4 +16,5 @@ Digital Development student (Développement Digital) building web projects.
 
 ## 📫 Contact
 
+- Portfolio: [fouad-fx.github.io/portfolio](https://fouad-fx.github.io/portfolio/)
 - GitHub: [@fouad-fx](https://github.com/fouad-fx)
